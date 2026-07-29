@@ -11,7 +11,6 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,vue,react,nodejs,pytorch,github,vscode" alt="My Tech Stack" />
-  <img src="./assets/arkts.svg" width="48" height="48" alt="ArkTS" title="ArkTS / HarmonyOS" />
 </div>
 
 ## 📊 GitHub Profile
