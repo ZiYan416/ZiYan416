@@ -1,0 +1,33 @@
+name: Update Profile Statistics
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-profile-stats.yml"
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-statistics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate profile statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          include-title: false
+          hide-keys: sponsors, sponsoring, private, joined, mostStarred, mostForked, followers, following
+          max-languages: 6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
