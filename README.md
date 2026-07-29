@@ -4,11 +4,16 @@
 
 - 💻 Focused on AI applications, computer vision and full-stack development.
 - 🔬 Exploring medical image analysis and lightweight object detection.
+- 📱 Building HarmonyOS applications with ArkTS.
 - 🛠️ Building practical software, developer tools and open-source projects.
-- 🥳 You can find more about me in my repositories.
 
 ## 🛠️ Tech Stack
 
 <div>
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,vue,react,nodejs,pytorch,github,vscode" alt="My Tech Stack" />
+  <img src="./assets/arkts.svg" width="48" height="48" alt="ArkTS" title="ArkTS / HarmonyOS" />
 </div>
+
+## 📊 GitHub Profile
+
+<img src="./images/userstats.svg" alt="GitHub Statistics" />
