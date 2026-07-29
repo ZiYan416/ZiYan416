@@ -10,5 +10,5 @@
 ## 🛠️ Tech Stack
 
 <div>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,vue,react,nodejs,pytorch,opencv,docker,nginx,github,linux,vscode" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css,vue,react,nodejs,pytorch,github,vscode" alt="My Tech Stack" />
 </div>
