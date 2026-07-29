@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Statistics</title>
+  <desc id="desc">Placeholder shown before the first profile statistics workflow run</desc>
+  <rect x="1" y="1" width="718" height="118" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="50" fill="#e6edf3" font-family="Arial, sans-serif" font-size="20" font-weight="700">GitHub Statistics</text>
+  <text x="28" y="82" fill="#8b949e" font-family="Arial, sans-serif" font-size="15">Run “Update Profile Statistics” once to generate the live card.</text>
+</svg>
