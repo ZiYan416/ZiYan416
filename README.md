@@ -2,7 +2,7 @@
 
 **AI Researcher / Full Stack Developer**
 
-- 🎓 B.Eng. in Software Engineering from 🇨🇳 [Huai'an University](https://www.hau.edu.cn/), with a paper published at AISTATS 2026.
+- 🎓 B.Eng. in Software Engineering from 🇨🇳 [HAU](https://www.hau.edu.cn/), with a paper published at AISTATS 2026.
 - 💻 I enjoy working on things that interest me, exploring ideas deeply, and tinkering with new technologies.
 - 🎧 Hobbies: Listening to music and gaming
 - 🥳 You can find more about me on [my blog](https://www.lunalbl.com/)!
